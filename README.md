@@ -2,10 +2,11 @@
 
 --earthstrider--  
 one  
-two  
+two
+ubuntu-server  
 --earthstrider--  
 
 
-hello world
+hello world, 007  
 
-2019 0409
+2019 0409  
